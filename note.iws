@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566117a4-cb8d-4d63-9fa8-0f2b77a8005e" name="Default" comment="初始笔记导入">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/接口和抽象类的区别.xmind" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/概率论与数理统计.xmind" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/如何高效学习.xmind" afterPath="$PROJECT_DIR$/如何高效学习.xmind" />
+    <list default="true" id="566117a4-cb8d-4d63-9fa8-0f2b77a8005e" name="Default" comment="增加接口与抽象类的区别及概率论与数理统计的笔记">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis.xmind" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note.iws" afterPath="$PROJECT_DIR$/note.iws" />
     </list>
     <ignored path="note.iws" />
@@ -66,7 +64,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -87,6 +84,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -425,7 +423,12 @@
       <workItem from="1442057040173" duration="74000" />
       <workItem from="1442057208399" duration="1269000" />
       <workItem from="1442373799123" duration="19000" />
-      <workItem from="1442403116729" duration="29000" />
+      <workItem from="1442403116729" duration="67000" />
+      <workItem from="1442403205493" duration="386000" />
+      <workItem from="1442454698413" duration="13000" />
+      <workItem from="1442888866379" duration="601000" />
+      <workItem from="1453726056122" duration="3000" />
+      <workItem from="1453726490458" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="初始笔记导入">
       <created>1442057099485</created>
@@ -433,14 +436,20 @@
       <option name="project" value="LOCAL" />
       <updated>1442057099485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加接口与抽象类的区别及概率论与数理统计的笔记">
+      <created>1442403174458</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1442403174458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1391000" />
+    <option name="totallyTimeSpent" value="2488000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -488,7 +497,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="初始笔记导入" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始笔记导入" />
+    <MESSAGE value="增加接口与抽象类的区别及概率论与数理统计的笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加接口与抽象类的区别及概率论与数理统计的笔记" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
