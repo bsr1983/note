@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566117a4-cb8d-4d63-9fa8-0f2b77a8005e" name="Default" comment="">
+    <list default="true" id="566117a4-cb8d-4d63-9fa8-0f2b77a8005e" name="Default" comment="增加redis学习的笔记">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note.iws" afterPath="$PROJECT_DIR$/note.iws" />
     </list>
     <ignored path="note.iws" />
@@ -430,7 +430,7 @@
       <workItem from="1442454698413" duration="13000" />
       <workItem from="1442888866379" duration="601000" />
       <workItem from="1453726056122" duration="3000" />
-      <workItem from="1453726490458" duration="1617000" />
+      <workItem from="1453726490458" duration="1637000" />
     </task>
     <task id="LOCAL-00001" summary="初始笔记导入">
       <created>1442057099485</created>
@@ -456,11 +456,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453726839968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="增加redis学习的笔记">
+      <created>1453962084972</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453962084972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4049000" />
+    <option name="totallyTimeSpent" value="4069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
