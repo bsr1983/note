@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566117a4-cb8d-4d63-9fa8-0f2b77a8005e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis.xmind" afterPath="$PROJECT_DIR$/redis.xmind" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note.iws" afterPath="$PROJECT_DIR$/note.iws" />
     </list>
     <ignored path="note.iws" />
@@ -29,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -428,7 +430,7 @@
       <workItem from="1442454698413" duration="13000" />
       <workItem from="1442888866379" duration="601000" />
       <workItem from="1453726056122" duration="3000" />
-      <workItem from="1453726490458" duration="342000" />
+      <workItem from="1453726490458" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="初始笔记导入">
       <created>1442057099485</created>
@@ -448,11 +450,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453726563794</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加redis学习的笔记">
+      <created>1453726839968</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453726839968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2774000" />
+    <option name="totallyTimeSpent" value="4049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
